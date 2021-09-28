@@ -1,8 +1,8 @@
 [![Header](https://github.com/makgabri/makgabri/blob/master/static/header.gif?raw=true)](https://www.google.com/)
 
 ##### Greedings, My name is Gabrian:
-- 🎓Fourth Year Student at University of Toronto studying Computer Science and specializing in software engineering.
-- :page_with_curl: Currently a software engineer intern at Streamloan
+- 🎓Grduated from University of Toronto with a degree in Computer Science specializing in software engineering.
+- :page_with_curl: Currently a software engineer intern at Wizmacau
 - :boom: My favourite topics in computer science are artificial intelligence, web security and web applications.
 - :mailbox: You can reach me with the links below
 - My website: https://makgabri.github.io/
