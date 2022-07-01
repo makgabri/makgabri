@@ -5,7 +5,7 @@
 - :page_with_curl: Currently a software engineer intern at Wizmacau
 - :boom: My favourite topics in computer science are artificial intelligence, web security and web applications.
 - :mailbox: You can reach me with the links below
-- My website: https://makgabri.github.io/
+- My website: https://www.gabrianmak.com/
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrianmak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrianmak/)
